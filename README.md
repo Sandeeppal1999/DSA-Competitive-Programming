@@ -1,2 +1,2 @@
 # JAVA-LANG
-Hello there, In this repo make hand dirty in java lang from basic to advanced.
+Hello there, In  this repo we will implement DSA Basic to advanced 
